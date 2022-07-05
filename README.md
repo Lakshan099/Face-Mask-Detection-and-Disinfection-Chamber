@@ -1,0 +1,2 @@
+# Face-Mask-Detection-and-Disinfection-Chamber
+Covid -19 has spread across most of the world overwhelming health systems, damaging economies, spreading fear and claiming lives. Due to the novel nature of the virus, there is a lack of scientific data to aid cure. The growing popularity of the human disinfection chamber is an example of IoT innovation in response to the global burden created by the Covid -19 pandemic. 
